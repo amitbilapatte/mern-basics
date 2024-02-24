@@ -1,0 +1,24 @@
+{
+  "name": "mern-basics",
+  "version": "1.0.0",
+  "description": "node-js basic app with react and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd node-basics && npm start\" \"cd react-basics && npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitbilapatte/mern-basics.git"
+  },
+  "keywords": [],
+  "author": "AMIT REDDY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitbilapatte/mern-basics/issues"
+  },
+  "homepage": "https://github.com/amitbilapatte/mern-basics#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
