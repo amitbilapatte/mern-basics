@@ -1,0 +1,6 @@
+[submodule "react-basics"]
+	path = react-basics
+	url = https://github.com/amitbilapatte/react-basics.git
+[submodule "node-basics"]
+	path = node-basics
+	url = https://github.com/amitbilapatte/node-basics.git
